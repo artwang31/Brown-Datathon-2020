@@ -1,11 +1,11 @@
 # Brown-Datathon-2020-Team-Challenge
 
+BROWN DATATHON 2020
+Team: Artemas Wang, Hariz Johnson, Manas Dresswala
+
 CHALLENGE:
 
 Fidelity Investments is sponsoring a Corona Impact / Monitoring challenge in which participants look at travel data and make predictions on the potential impacts of the COVID-19 on tourist and traveler arrivals in the US. Participants are encouraged to consider both modeling and visualization projects.
-
-BROWN DATATHON 2020
-Team: Artemas Wang, Hariz Johnson, Manas Dresswala
 
 PURPOSE: 
 The goal of our data challenge was to look at travel data and make predictions on the potential impacts of the 
