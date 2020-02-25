@@ -1,4 +1,4 @@
-# Brown-Datathon-2020
+# Brown-Datathon-2020-Team-Challenge
 
 CHALLENGE:
 
