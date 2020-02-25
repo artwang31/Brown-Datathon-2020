@@ -1,17 +1,17 @@
 # Brown-Datathon-2020
 
-Abstract: 
-Analyzed a variety of travel and tourism data to make predictions on the potential impacts of the COVID-19 virus 
-on foreign traveler arrivals to the United States and its possible effect on tourism revenue.
+CHALLENGE:
+
+Fidelity Investments is sponsoring a Corona Impact / Monitoring challenge in which participants look at travel data and make predictions on the potential impacts of the COVID-19 on tourist and traveler arrivals in the US. Participants are encouraged to consider both modeling and visualization projects.
 
 BROWN DATATHON 2020
 Team: Artemas Wang, Hariz Johnson, Manas Dresswala
 
-Purpose: 
+PURPOSE: 
 The goal of our data challenge was to look at travel data and make predictions on the potential impacts of the 
 COVID-19 virus on tourist and traveler arrivals to the United States. 
 
-Methodology: 
+METHODOLOGY: 
 We began by processing traveler and tourism data into the United States (US) with data gathered from a 
 variety of US governmental websites for the years 1996 - 2019. To more accurately predict potential impacts of COVID-19 
 on US tourism, we modeled our assumptions on a previous pandemic that originated from Asia in 2003, 
@@ -35,7 +35,7 @@ it made sense for us to build this model on a previous pandemic, SARS, from 2003
 
 ![Arrivals by All Countries](https://github.com/artwang31/Brown-Datathon-2020/blob/master/arrivals_by_all_countries.png)
 
- Results: 
+ RESULTS: 
  The visualization we produced indicated the number of Chinese nationals that visited the United States (US) 
  doubled in the years 2011-2019, however since 2017, the number of visitors have dipped significantly. 
  This reflected our findings on the amount of international flights into the US as the data indicated corresponding results. 
