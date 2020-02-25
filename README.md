@@ -25,7 +25,7 @@ Additionally, two other factors were also considered in our prediction model. We
 and tourism and also accounted for the shifts of foreign currency exchange rates compared to the US dollar during this 
 period of time. This allowed us to ascertain the nuances of variances among the three factors that could influence US tourism.
 
-[Countries with Most Arrivals into US](https://github.com/artwang31/Brown-Datathon-2020/blob/master/top_countries_based_on_arrivals.png)
+![Countries with Most Arrivals into US](https://github.com/artwang31/Brown-Datathon-2020/blob/master/top_countries_based_on_arrivals.png)
 
 We then applied a regression model to predict the potential effects of COVID-19 on US tourism in 2020. 
 The model was built on US tourism data from 1996-2003 considering the possible effects of SARS, the seasonality of travel, 
@@ -33,7 +33,7 @@ and foreign currency exchange rates to predict US tourism in 2004. The same mode
 for US tourism in 2020. Because we are trying to predict the current COVID-19 pandemic on US tourism, 
 it made sense for us to build this model on a previous pandemic, SARS, from 2003. 
 
-[Arrivals by All Countries](https://github.com/artwang31/Brown-Datathon-2020/blob/master/arrivals_by_all_countries.png)
+![Arrivals by All Countries](https://github.com/artwang31/Brown-Datathon-2020/blob/master/arrivals_by_all_countries.png)
 
  Results: 
  The visualization we produced indicated the number of Chinese nationals that visited the United States (US) 
@@ -44,7 +44,7 @@ it made sense for us to build this model on a previous pandemic, SARS, from 2003
  the US dollar. As our model regressed the volume of foreign visitors to historical foreign currency exchange rates, 
  the negative correlation indicates that this hypothesis could be the reason for the decrease in tourism. 
  
- [Exchange Rates Compared to US Dollar](https://github.com/artwang31/Brown-Datathon-2020/blob/master/exchange_rates.png)
+ ![Exchange Rates Compared to US Dollar](https://github.com/artwang31/Brown-Datathon-2020/blob/master/exchange_rates.png)
  
  Furthermore, when our model regressed on the effects of SARS on tourism in 2004, the model indicated no significant
  correlation. Thus, we infer that the fluctuations in US tourism is influenced less by the fear of contagious diseases but 
