@@ -8,10 +8,12 @@ CHALLENGE:
 Fidelity Investments is sponsoring a Corona Impact / Monitoring challenge in which participants look at travel data and make predictions on the potential impacts of the COVID-19 on tourist and traveler arrivals in the US. Participants are encouraged to consider both modeling and visualization projects.
 
 PURPOSE: 
+
 The goal of our data challenge was to look at travel data and make predictions on the potential impacts of the 
 COVID-19 virus on tourist and traveler arrivals to the United States. 
 
-METHODOLOGY: 
+METHODOLOGY:
+
 We began by processing traveler and tourism data into the United States (US) with data gathered from a 
 variety of US governmental websites for the years 1996 - 2019. To more accurately predict potential impacts of COVID-19 
 on US tourism, we modeled our assumptions on a previous pandemic that originated from Asia in 2003, 
@@ -36,6 +38,7 @@ it made sense for us to build this model on a previous pandemic, SARS, from 2003
 ![Arrivals by All Countries](https://github.com/artwang31/Brown-Datathon-2020/blob/master/arrivals_by_all_countries.png)
 
  RESULTS: 
+ 
  The visualization we produced indicated the number of Chinese nationals that visited the United States (US) 
  doubled in the years 2011-2019, however since 2017, the number of visitors have dipped significantly. 
  This reflected our findings on the amount of international flights into the US as the data indicated corresponding results. 
@@ -45,6 +48,8 @@ it made sense for us to build this model on a previous pandemic, SARS, from 2003
  the negative correlation indicates that this hypothesis could be the reason for the decrease in tourism. 
  
  ![Exchange Rates Compared to US Dollar](https://github.com/artwang31/Brown-Datathon-2020/blob/master/exchange_rates.png)
+ 
+ FINAL THOUGHTS:
  
  Furthermore, when our model regressed on the effects of SARS on tourism in 2004, the model indicated no significant
  correlation. Thus, we infer that the fluctuations in US tourism is influenced less by the fear of contagious diseases but 
