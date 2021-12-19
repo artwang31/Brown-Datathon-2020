@@ -1,7 +1,7 @@
 # Brown-Datathon-2020-Team-Challenge
 
 BROWN DATATHON 2020
-Team Members: Artemas Wang (Columbia), Hariz Johnson, Manas Dresswala
+Team Members: Artemas Wang (Columbia), Hariz Johnson (Brown), Manas Dresswala
 
 CHALLENGE:
 
